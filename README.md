@@ -12,4 +12,4 @@
 </div></div></div>
 
 # Team
-This was a man team led by yours truly Edwin Okwaro
+This was a one man team led by yours truly Edwin Okwaro
